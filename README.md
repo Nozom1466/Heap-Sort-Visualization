@@ -9,7 +9,7 @@ More Algorithm Visualizations on the website are highly recommended.
 ## Quick Start
 Open heap_sort.html
 ![opening page](/pages/opening.png)
-
+> coding on the left side displayed just for decoration (NOT THE SAME AS ANIMATION ORDERS)
 
 `Randomize` - randomize (generate) an array with MAX_LENGTH(default to 32) elements
 
