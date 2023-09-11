@@ -8,7 +8,7 @@ More Algorithm Visualizations on the website are highly recommended.
 
 ## Quick Start
 Open heap_sort.html
-[opening page](/images/opening.png)
+![opening page](/pages/opening.png)
 
 
 `Randomize` - randomize (generate) an array with MAX_LENGTH(default to 32) elements
@@ -17,7 +17,7 @@ Open heap_sort.html
 
 `Animation Speed Range` - Change the speed of your animation
 
-[Randomize & Build heap](/images/main_1.png)
+![Randomize & Build heap](/pages/main_1.png)
 
 `Pause / Start` - pause or start animation
 
@@ -25,15 +25,15 @@ Open heap_sort.html
 
 `FAST Back / FAST Forward` - quickly finish animation / back to origial state
 
-[Finished Sorting animation](/images/main_2.png)
+![Finished Sorting animation](/pages/main_2.png)
 
 `Update` - Update your array manually
 
-[Update your array](/images/main_3.png)
+![Update your array](/pages/main_3.png)
 
 Close the model box then perform the animation
 
-[Perform animation with new array](/images/main_4.png)
+![Perform animation with new array](/pages/main_4.png)
 
 
 
