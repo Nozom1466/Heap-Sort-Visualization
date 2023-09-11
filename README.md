@@ -6,6 +6,10 @@ This project is adapted from [Data Structure Visualization](https://www.cs.usfca
 
 More Algorithm Visualizations on the website are highly recommended. 
 
+## Language & Packages & Frameworks
+- `javascript` (`HTML`, `css`)
+- `bootstrap`, `prism`, `Data Structure Visualization`
+
 ## Quick Start
 Open heap_sort.html
 ![opening page](/pages/opening.png)
